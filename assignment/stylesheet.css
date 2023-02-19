@@ -1,14 +1,4 @@
-
-.header{
+header{
     background-color: #222;
     color: #DDD;
-    text-align: center;
-}
-.main{
-    padding: 1em;
-    background-color: #BBB;
-}
-.body{
-    margin: 0;
-    background-image: url("record.png");
 }
