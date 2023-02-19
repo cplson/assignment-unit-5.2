@@ -1,13 +1,13 @@
-header{
+.header{
     background-color: #222;
     color: #DDD;
     text-align: center;
 }
-main{
+.main{
     background-color: #BBB;
     padding: 1em;
 }
-body{
+.body{
     background-image: url("record.png");
     margin: 0;
 }
